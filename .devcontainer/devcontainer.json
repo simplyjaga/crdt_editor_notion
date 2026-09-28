@@ -1,0 +1,7 @@
+{
+    "name": "CRDT Editor Development",
+    "dockerComposeFile": "../compose.yaml",
+    "service": "dev",
+    "workspaceFolder": "/workspace",
+    "shutdownAction": "stopCompose"
+}
